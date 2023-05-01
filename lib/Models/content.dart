@@ -4,6 +4,7 @@ import 'package:netflix/Models/content_model.dart';
 const Content sintelContent = Content(
   name: 'Peaky Blinders',
   imageUrl: 'Assets/images/peaky_blinders.jpg',
+  // Imran
 //  titleImageUrl: 'Assets/images/sintel_title.png',
   // videoUrl: Assets.sintelVideoUrl,
 //   description:
